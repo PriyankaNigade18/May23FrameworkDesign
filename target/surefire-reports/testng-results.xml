@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-24T20:36:05 IST" name="Suite" finished-at="2023-08-24T20:36:23 IST" duration-ms="17501">
+    <groups>
+    </groups>
+    <test started-at="2023-08-24T20:36:05 IST" name="Test" finished-at="2023-08-24T20:36:23 IST" duration-ms="17501">
+      <class name="com.SwagLabs.TestCase.OverviewPageTest">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:com.SwagLabs.TestCase.OverviewPageTest@7714e963]" started-at="2023-08-24T20:36:05 IST" name="setBrowser" finished-at="2023-08-24T20:36:11 IST" duration-ms="5339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:com.SwagLabs.TestCase.OverviewPageTest@7714e963]" started-at="2023-08-24T20:36:11 IST" name="setUpPage" finished-at="2023-08-24T20:36:22 IST" duration-ms="11923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method signature="verifyTitle()[pri:1, instance:com.SwagLabs.TestCase.OverviewPageTest@7714e963]" started-at="2023-08-24T20:36:22 IST" name="verifyTitle" finished-at="2023-08-24T20:36:22 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="verifySummary()[pri:2, instance:com.SwagLabs.TestCase.OverviewPageTest@7714e963]" started-at="2023-08-24T20:36:22 IST" name="verifySummary" finished-at="2023-08-24T20:36:23 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySummary -->
+        <test-method signature="verifyFinish()[pri:3, instance:com.SwagLabs.TestCase.OverviewPageTest@7714e963]" started-at="2023-08-24T20:36:23 IST" name="verifyFinish" finished-at="2023-08-24T20:36:23 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFinish -->
+      </class> <!-- com.SwagLabs.TestCase.OverviewPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
